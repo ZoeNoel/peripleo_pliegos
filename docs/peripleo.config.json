@@ -3,14 +3,9 @@
   "map_style": "./map-style-OSM.json",
   "data": [
     {
-      "name": "Pliegos1",
+      "name": "pliegos",
       "format": "LINKED_PLACES",
-      "src": "./data/data_pliegos1.json",
-    },
-     {
-      "name": "Pliegos2",
-      "format": "LINKED_PLACES",
-      "src": "./data/data_pliegos2.json",
+      "src": "./data/pliegos_data.json",
     }
     
   ],
