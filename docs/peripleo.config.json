@@ -10,8 +10,8 @@
     }
   ],
   "facets": [
-    {"name": "Date", "path":["properties", "date"]},
     {"name": "Imprimeur", "path":["properties", "imprimeur"]},
+    {"name": "Date", "path":["properties", "date"]},
     {"name": "Genre littéraire", "path":["properties", "genre"]},
     {"name": "Lieu d'impression", "path":["properties", "lieuimpression"]}    
   ],
