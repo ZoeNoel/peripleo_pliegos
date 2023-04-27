@@ -1,0 +1,38 @@
+{
+	"type": "Feature",
+	"properties": {
+		"title": "Testamento de D. Guindo y Pascual Cerezo"
+	},
+	"geometry":{"type":"Point","coordinates":[-3.74923,40.463667]}
+	,
+	"types": [
+		{ "label": "romance", "identifier": "wd:Q738473" }
+		
+	]
+}
+
+{
+	"type": "Feature",
+	"properties": {
+		"title": "Coplas nuevas paras cantar los aficionados. En una maceta hermosa"
+	},
+	"geometry":{"type":"Point","coordinates":[-3.74923,40.463667]}
+	,
+	"types": [
+		{ "label": "sainete", "identifier": "wd:Q835067" }
+		
+	]
+}
+
+{
+	"type": "Feature",
+	"properties": {
+		"title": "Coplas al sagrado nacimiento"
+	},
+	"geometry":{"type":"Point","coordinates":[14.550072,47.516231]}
+	,
+	"types": [
+		{ "label": "sainete", "identifier": "wd:Q835067" }
+		
+	]
+}
