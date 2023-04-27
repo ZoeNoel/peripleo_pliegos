@@ -5,15 +5,16 @@
     {
       "name": "VisitPlus",
       "format": "LINKED_PLACES",
-      "src": "./data/test3.json",
+      "src": "./data/test4.json",
       "attribution": "VisitPlus © <a href=\"https://britishlibrary.github.io/locating-a-national-collection/\" target=\"_blank\"><i>Locating a National Collection</i> Partners & Contributors</a>"
     }
   ],
   "facets": [
-    { "name": "Genre", "path": ["types", "label"] },
-    { "name": "Imprimeur", "path": ["properties", "imprimeur"] },
+    {"name": "Date", path:["properties", "date"]},
+    {"name": "Imprimeur", path:["properties", "imprimeur"]},
+    {"name": "Genre littéraire", path:["properties", "genre"]},
+    {"name": "Lieu d'impression", path:["properties", "lieuimpression"]}    
   ],
-
   "link_icons": [
     { "pattern": "maps.google.com",  "img": "./logos/maps.google.com.png", "label": "Google Maps" },
     { "pattern": "www.geograph.org.uk", "img": "./logos/geograph.org.png", "label": "Geograph" },
