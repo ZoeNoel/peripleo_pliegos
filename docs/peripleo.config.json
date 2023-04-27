@@ -6,7 +6,7 @@
       "name": "Pliegos",
       "format": "LINKED_PLACES",
       "src": "./data/data_pliegos.json",
-      
+      "attribution" :  "Desenrollando el Cordel"
     }
   ],
   "facets": [
