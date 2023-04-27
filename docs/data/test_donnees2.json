@@ -1,0 +1,132 @@
+[
+    {
+      "title": "Testamento de D. Guindo y Pascual Cerezo",
+      "entity": "Espana",
+      "date": 1853,
+      "latitude": 40.463667,
+      "longitude": -3.74923,
+      "imprimeur": "Moreno",
+      "genre": "romance",
+      "lieuimpression": "Madrid"
+    },
+    {
+      "title": "Coplas nuevas paras cantar los aficionados. En una maceta hermosa",
+      "entity": "Espana",
+      "date": 1858,
+      "latitude": 40.463667,
+      "longitude": -3.74923,
+      "imprimeur": "Moreno",
+      "genre": "romance",
+      "lieuimpression": "Barcelona"
+    },
+    {
+      "title": "Pasillo de D. Sancho y su mayordomo Crispin",
+      "entity": "Espana",
+      "date": 1854,
+      "latitude": 40.463667,
+      "longitude": -3.74923,
+      "imprimeur": "Moreno",
+      "genre": "relaciones",
+      "lieuimpression": "Cordoba"
+    },
+    {
+      "title": "Sainete nuevo. El recibo del page",
+      "entity": "Espana",
+      "date": 1858,
+      "latitude": 40.463667,
+      "longitude": -3.74923,
+      "imprimeur": "Moreno",
+      "genre": "romance",
+      "lieuimpression": "Madrid"
+    },
+    {
+      "title": "Coplas al sagrado nacimiento",
+      "entity": "Espana",
+      "date": 1856,
+      "latitude": 40.463667,
+      "longitude": -3.74927,
+      "imprimeur": "Cristina Segura",
+      "genre": "sainete",
+      "lieuimpression": "Madrid"
+    },
+    {
+      "title": "Villancicos nuevos alegres y divertidos para cantar en estas proximas Navidades",
+      "entity": "Espana",
+      "date": 1858,
+      "latitude": 40.463667,
+      "longitude": -3.74928,
+      "imprimeur": "Narciso Ramrez y Comp.",
+      "genre": "trovos",
+      "lieuimpression": "Barcelona"
+    },
+    {
+      "title": "Antonio Narvaez y Rosaura. Primera parte",
+      "entity": "Espana",
+      "date": 1857,
+      "latitude": 40.463667,
+      "longitude": -3.74929,
+      "imprimeur": "Imprenta Peninsular",
+      "genre": "romance",
+      "lieuimpression": "Sevilla"
+    },
+    {
+      "title": "Los enamorados de Cristo",
+      "entity": "Espana",
+      "date": 1858,
+      "latitude": 40.463667,
+      "longitude": -3.7493,
+      "imprimeur": "Cristina Segura",
+      "genre": "sainete",
+      "lieuimpression": "Pamplona"
+    },
+    {
+      "title": "La enamorada de Cristo",
+      "entity": "Espana",
+      "date": 1858,
+      "latitude": 40.463667,
+      "longitude": -3.7493,
+      "imprimeur": "El Abanico",
+      "genre": "romance",
+      "lieuimpression": "Barcelona"
+    },
+    {
+      "title": "Coplas al sagrado nacimiento",
+      "entity": "Dinamarca",
+      "date": 1858,
+      "latitude": 56.26392,
+      "longitude": 9.501785,
+      "imprimeur": "El Abanico",
+      "genre": "romance",
+      "lieuimpression": "Barcelona"
+    },
+    {
+      "title": "Relacion chistosa titulada ",
+      "entity": "Puerto-Rico",
+      "date": 1863,
+      "latitude": 18.220833,
+      "longitude": -66.59015,
+      "imprimeur": "Imprenta Peninsular",
+      "genre": "decimas",
+      "lieuimpression": "Sevilla"
+    },
+    {
+      "title": "Satira graciosa de los quince novios",
+      "entity": "Puerto-Rico",
+      "date": 1856,
+      "latitude": 18.220833,
+      "longitude": -66.59015,
+      "imprimeur": "Imprenta Peninsular",
+      "genre": "romance",
+      "lieuimpression": "Madrid"
+    },
+    {
+      "title": "Coplas al sagrado nacimiento",
+      "entity": "Austria",
+      "date": 1854,
+      "latitude": 47.516231,
+      "longitude": 14.550072,
+      "imprimeur": "El Abanico",
+      "genre": "romance",
+      "lieuimpression": "Barcelona"
+    }
+   ]
