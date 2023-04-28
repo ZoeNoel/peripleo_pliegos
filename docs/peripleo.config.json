@@ -5,7 +5,7 @@
     {
       "name": "Pliegos",
       "format": "LINKED_PLACES",
-      "src": "./data/data_pliegos.json",
+      "src": "./data/test8.json",
       "attribution" :  "Desenrollando el Cordel"
     }
   ],
@@ -13,7 +13,8 @@
     {"name": "Imprimeur", "path":["properties", "imprimeur"]},
     {"name": "Date", "path":["properties", "date"]},
     {"name": "Genre littéraire", "path":["properties", "genre"]},
-    {"name": "Lieu d'impression", "path":["properties", "lieuimpression"]}    
+    {"name": "Lieu d'impression", "path":["properties", "lieuimpression"]},
+    {"name": "Type de lieu", "path":["properties", "typeentity"]}
   ],
   "link_icons": [
     { "pattern": "maps.google.com",  "img": "./logos/maps.google.com.png", "label": "Google Maps" },
