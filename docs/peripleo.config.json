@@ -5,7 +5,7 @@
     {
       "name": "Pliegos",
       "format": "LINKED_PLACES",
-      "src": "./data/test11.json",
+      "src": "./data/test12.json",
       "attribution" :  "Desenrollando el Cordel"
     }
   ],
