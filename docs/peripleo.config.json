@@ -5,15 +5,11 @@
     {
       "name": "Pliegos",
       "format": "LINKED_PLACES",
-      "src": "./data/test17.json",
+      "src": "./data/test18.json",
       "attribution" :  "Desenrollando el Cordel"
     }
   ],
   "facets": [
-    {"name": "Imprimeur", "path":["properties", "imprimeur"]},
-    {"name": "Date", "path":["properties", "date"]},
-    {"name": "Genre littéraire", "path":["properties", "genre"]},
-    {"name": "Lieu d'impression", "path":["properties", "lieuimpression"]},
-    {"name": "Type de lieu", "path":["properties", "typeentity"]}
+    {"name": "Genre", "path":["relations", "genre"]}
   ]
 }
