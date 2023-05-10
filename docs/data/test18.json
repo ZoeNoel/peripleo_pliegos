@@ -1,0 +1,83 @@
+{
+    "type": "FeatureCollection",
+    "@context": "https://w3id.org/locolligo/contexts/linkedplaces.jsonld",
+    "features": [
+        {
+            "@id": "Q29",
+            "uuid": "https://www.wikidata.org/wiki/Q29",
+            "type": "Feature",
+            "properties": {
+                "title": "Espana",
+                "ccodes": ["SP"],
+                "country": "Espana"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.74923,
+                    40.463667
+                ]
+            },
+            "relations": [
+                {
+                    "relationTo": "https://desenrollandoelcordel.unige.ch/Pliegos/Moreno_205.xml",
+                    "content": "pliegos",
+                    "title": "Romance gracioso y entretenido en que se refiere el testamento que hizo el maldito Judas",
+                    "genre":"romance"
+                },
+                {
+                    
+                        "relationTo": "https://desenrollandoelcordel.unige.ch/Pliegos/Moreno_206.xml",
+                        "content": "pliegos",
+                        "title": "Admirable historia de Don Carlos y Lucinda ", 
+                        "genre":"romance"
+                },
+                {
+                    "relationTo": "https://desenrollandoelcordel.unige.ch/Pliegos/Moreno_207.xml",
+                        "content": "pliegos",
+                        "title": "Admirable historia del príncipe Filiberto de Esparta y la princesa de Dinamarca",
+                        "genre":"sainete"
+                }
+            ]
+        },
+        {
+            "@id": "Q90",
+            "uuid": "https://www.wikidata.org/wiki/Q90",
+            "type": "Feature",
+            "properties": {
+                "title": "Paris",
+                "ccodes": ["PA"],
+                "country": "France"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.3483915,
+                    48.8534951
+                ]
+            },
+            "relations": [
+                {
+                    "relationTo": "https://desenrollandoelcordel.unige.ch/Pliegos/Moreno_210.xml",
+                    "content": "pliegos",
+                    "title": "Romance gracioso y entretenido en que se refiere el testamento que hizo el maldito Judas",
+                    "genre":"romance"
+                },
+                {
+                    
+                        "relationTo": "https://desenrollandoelcordel.unige.ch/Pliegos/Moreno_209.xml",
+                        "content": "pliegos",
+                        "title": "Admirable historia de Don Carlos y Lucinda ", 
+                        "genre":"sainete"
+                },
+                {
+                    "relationTo": "https://desenrollandoelcordel.unige.ch/Pliegos/Moreno_215.xml",
+                        "content": "pliegos",
+                        "title": "Admirable historia del príncipe Filiberto de Esparta y la princesa de Dinamarca", 
+                        "genre":"sainete"
+                }
+            ]
+        }
+        
+    ]
+}
