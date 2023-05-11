@@ -14,5 +14,6 @@
    {"name" : "Lieu de publication", "path":["properties","pubPlace"]},
    {"name" : "Genre", "path":["properties","type_text"]},
    {"name" : "Type de lieux", "path":["properties","type_place"]}
+   ]
    
 }
